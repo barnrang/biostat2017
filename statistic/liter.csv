@@ -1,0 +1,126 @@
+﻿Series Name,Series Code,Country Name,Country Code,2012 [YR2012],2013 [YR2013],2014 [YR2014],2015 [YR2015],2016 [YR2016],count 2012-2016,count 2013-2015,Adult literacy rate (average of 2012-2016) / %,,,GNI per capita,Series Code,Country Name,Country Code,2012 [YR2012],2013 [YR2013],GNI per capita (2014) / $,2015 [YR2015],2016 [YR2016]
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Uzbekistan,UZB,,99.99486,99.98055,99.98383,,3,3,99.98641333,,,,NY.GNP.PCAP.CD,Uzbekistan,UZB,1740,1970,2110,2170,2220
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Ukraine,UKR,99.97435,,,,,1,0,99.97435,,,,NY.GNP.PCAP.CD,Ukraine,UKR,3500,3800,3560,2650,2310
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Azerbaijan,AZE,99.77577,99.78936,99.78899,99.78806,99.79006,5,3,99.786448,,,,NY.GNP.PCAP.CD,Azerbaijan,AZE,6480,7450,7700,6550,4760
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Georgia,GEO,,,99.58619,,,1,1,99.58619,,,,NY.GNP.PCAP.CD,Georgia,GEO,3870,4240,4490,4120,3830
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Moldova,MDA,99.13831,,,,,1,0,99.13831,,,,NY.GNP.PCAP.CD,Moldova,MDA,2140,2470,2560,2230,2120
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Serbia,SRB,,,,,98.84151,1,0,98.84151,,,,NY.GNP.PCAP.CD,Serbia,SRB,5700,6050,5840,5540,5310
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Maldives,MDV,,,98.61012,,,1,1,98.61012,,,,NY.GNP.PCAP.CD,Maldives,MDV,8260,8980,9630,9880,10630
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Argentina,ARG,,,,98.09,,1,1,98.09,,,,NY.GNP.PCAP.CD,Argentina,ARG,11790,12770,12260,12430,11970
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Jordan,JOR,97.89032,,,,,1,0,97.89032,,,,NY.GNP.PCAP.CD,Jordan,JOR,3680,3790,3870,3890,3920
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Albania,ALB,97.24697,,,,,1,0,97.24697,,,,NY.GNP.PCAP.CD,Albania,ALB,4360,4480,4440,4290,4180
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Bosnia and Herzegovina,BIH,,96.99177,,,,1,1,96.99177,,,,NY.GNP.PCAP.CD,Bosnia and Herzegovina,BIH,4930,5180,5170,5050,4940
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,West Bank and Gaza,PSE,95.90622,96.2849,96.42839,96.69073,96.93023,5,3,96.448094,,,,NY.GNP.PCAP.CD,West Bank and Gaza,PSE,2970,3120,3180,3260,3230
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Philippines,PHL,,96.398,,,,1,1,96.398,,,,NY.GNP.PCAP.CD,Philippines,PHL,2980,3300,3470,3520,3580
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Turkey,TUR,94.91975,95.25666,95.43963,95.60142,,4,3,95.304365,,,,NY.GNP.PCAP.CD,Turkey,TUR,11880,12530,12590,12000,11230
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Indonesia,IDN,,,95.11622,95.21793,95.37697,3,2,95.23704,,,,NY.GNP.PCAP.CD,Indonesia,IDN,3570,3730,3620,3440,3400
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Paraguay,PRY,,,94.61672,95.0727,,2,2,94.84471,,,,NY.GNP.PCAP.CD,Paraguay,PRY,3430,4180,4390,4210,4060
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Mexico,MEX,94.2284,93.96285,94.55588,94.47228,,4,3,94.3048525,,,,NY.GNP.PCAP.CD,Mexico,MEX,9870,10020,10190,9830,9040
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Colombia,COL,,,94.18625,94.24505,,2,2,94.21565,,,,NY.GNP.PCAP.CD,Colombia,COL,7140,7760,7970,7130,6310
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,South Africa,ZAF,93.72947,,94.1399,94.36792,,3,2,94.07909667,,,,NY.GNP.PCAP.CD,South Africa,ZAF,7620,7400,6800,6100,5490
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Peru,PER,93.84173,,93.70795,94.16234,94.17367,4,2,93.9714225,,,,NY.GNP.PCAP.CD,Peru,PER,5670,6270,6360,6150,5950
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Ecuador,ECU,92.06473,93.29463,94.22264,94.45566,94.35023,5,3,93.677578,,,,NY.GNP.PCAP.CD,Ecuador,ECU,5410,5830,6130,6000,5800
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Bolivia,BOL,94.46057,,,92.45508,,2,1,93.457825,,,,NY.GNP.PCAP.CD,Bolivia,BOL,2280,2620,2870,3000,3070
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Thailand,THA,,93.70207,,92.86831,,2,2,93.28519,,,,NY.GNP.PCAP.CD,Thailand,THA,5520,5730,5750,5690,5640
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Suriname,SUR,92.86866,,,,,1,0,92.86866,,,,NY.GNP.PCAP.CD,Suriname,SUR,8610,9030,9350,8830,6990
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Mauritius,MUS,91.76601,91.49003,92.47476,92.7076,,4,3,92.1096,,,,NY.GNP.PCAP.CD,Mauritius,MUS,9260,9790,9790,9780,9770
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Brazil,BRA,91.33785,91.48424,91.72943,,,3,2,91.51717333,,,,NY.GNP.PCAP.CD,Brazil,BRA,12280,12730,12020,10080,8840
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Dominican Republic,DOM,90.15518,90.85815,91.76376,91.99121,,4,3,91.192075,,,,NY.GNP.PCAP.CD,Dominican Republic,DOM,5660,5850,6110,6240,6390
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Sao Tome and Principe,STP,90.1431,,,,,1,0,90.1431,,,,NY.GNP.PCAP.CD,Sao Tome and Principe,STP,1270,1480,1680,1690,1720
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,El Salvador,SLV,,86.76758,,87.96985,,2,2,87.368715,,,,NY.GNP.PCAP.CD,El Salvador,SLV,3640,3750,3790,3840,3920
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Honduras,HND,85.35555,85.46442,87.19753,87.90683,88.98748,5,3,86.982362,,,,NY.GNP.PCAP.CD,Honduras,HND,2000,2040,2040,2090,2150
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Cabo Verde,CPV,85.32779,,,86.79029,,2,1,86.05904,,,,NY.GNP.PCAP.CD,Cabo Verde,CPV,3380,3440,3310,3150,2970
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Guyana,GUY,,,85.63973,,,1,1,85.63973,,,,NY.GNP.PCAP.CD,Guyana,GUY,3620,3890,4040,4060,4240
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,"Iran, Islamic Rep.",IRN,83.62599,84.6268,84.70524,,,3,2,84.31934333,,,,NY.GNP.PCAP.CD,"Iran, Islamic Rep.",IRN,7050,6950,6470,5340,5470
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Gabon,GAB,82.2838,,,,,1,0,82.2838,,,,NY.GNP.PCAP.CD,Gabon,GAB,9040,9330,9360,8010,7210
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Tunisia,TUN,80.21875,,79.03643,,,2,1,79.62759,,,,NY.GNP.PCAP.CD,Tunisia,TUN,4090,4130,4130,3930,3690
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Guatemala,GTM,78.26486,77.03867,81.2859,,,3,2,78.86314333,,,,NY.GNP.PCAP.CD,Guatemala,GTM,3090,3310,3450,3610,3790
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Kenya,KEN,,,78.73304,,,1,1,78.73304,,,,NY.GNP.PCAP.CD,Kenya,KEN,1060,1150,1260,1310,1380
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Lesotho,LSO,,,76.6352,,,1,1,76.6352,,,,NY.GNP.PCAP.CD,Lesotho,LSO,1550,1490,1380,1320,1270
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Myanmar,MMR,,,,,75.5512,1,0,75.5512,,,,NY.GNP.PCAP.CD,Myanmar,MMR,1140,1230,1230,1190,1190
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,"Egypt, Arab Rep.",EGY,73.86559,75.06073,,,,2,1,74.46316,,,,NY.GNP.PCAP.CD,"Egypt, Arab Rep.",EGY,2790,2990,3180,3310,3410
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Bangladesh,BGD,,,,,72.75872,1,0,72.75872,,,,NY.GNP.PCAP.CD,Bangladesh,BGD,940,1010,1070,1190,1330
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Morocco,MAR,69.42539,,,,,1,0,69.42539,,,,NY.GNP.PCAP.CD,Morocco,MAR,2970,3080,3040,3000,2850
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Angola,AGO,,,66.03011,,,1,1,66.03011,,,,NY.GNP.PCAP.CD,Angola,AGO,3820,4350,4470,4040,3450
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Bhutan,BTN,57.0336,,,,,1,0,57.0336,,,,NY.GNP.PCAP.CD,Bhutan,BTN,2290,2300,2330,2340,2510
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Pakistan,PAK,56.76434,55.59499,56.97715,,,3,2,56.44549333,,,,NY.GNP.PCAP.CD,Pakistan,PAK,1260,1360,1390,1430,1500
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Iraq,IRQ,,43.68328,,,,1,1,43.68328,,,,NY.GNP.PCAP.CD,Iraq,IRQ,6140,6850,6700,5960,5420
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Cote d'Ivoire,CIV,40.98163,,43.90842,,,2,1,42.445025,,,,NY.GNP.PCAP.CD,Cote d'Ivoire,CIV,1240,1340,1460,1490,1520
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Cuba,CUB,99.75253,,,,,1,0,99.75253,,,,NY.GNP.PCAP.CD,Cuba,CUB,6210,6570,,,
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,"Venezuela, RB",VEN,,,,96.60522,97.12709,2,1,96.866155,,,,NY.GNP.PCAP.CD,"Venezuela, RB",VEN,12480,11760,,,
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Algeria,DZA,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Algeria,DZA,5140,5480,5470,4800,4220
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,American Samoa,ASM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,American Samoa,ASM,,,,,
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Armenia,ARM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Armenia,ARM,3880,4120,4150,4030,3770
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Belarus,BLR,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Belarus,BLR,6620,7010,7600,6720,5590
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Belize,BLZ,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Belize,BLZ,4260,4330,4390,4510,4360
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Botswana,BWA,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Botswana,BWA,7310,7580,7350,6680,6750
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Bulgaria,BGR,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Bulgaria,BGR,7420,7610,7720,7480,7580
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Cambodia,KHM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Cambodia,KHM,880,960,1020,1070,1140
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Cameroon,CMR,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Cameroon,CMR,1390,1450,1510,1470,1400
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,China,CHN,,,,,,0,0,,,,,NY.GNP.PCAP.CD,China,CHN,5940,6800,7520,7950,8250
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,"Congo, Rep.",COG,,,,,,0,0,,,,,NY.GNP.PCAP.CD,"Congo, Rep.",COG,2330,2430,2520,2350,1710
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Costa Rica,CRI,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Costa Rica,CRI,9210,9810,10200,10570,10840
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Croatia,HRV,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Croatia,HRV,13460,13470,13150,12810,12140
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Djibouti,DJI,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Djibouti,DJI,,,,,
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Dominica,DMA,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Dominica,DMA,6750,6610,6890,6760,7110
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Equatorial Guinea,GNQ,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Equatorial Guinea,GNQ,13760,13630,12850,9510,7180
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Fiji,FJI,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Fiji,FJI,4100,4640,4760,4780,4780
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Ghana,GHA,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Ghana,GHA,1560,1730,1580,1470,1380
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Grenada,GRD,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Grenada,GRD,7160,7510,8160,8700,9100
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,India,IND,,,,,,0,0,,,,,NY.GNP.PCAP.CD,India,IND,1480,1520,1560,1600,1670
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Jamaica,JAM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Jamaica,JAM,4970,5020,4940,4730,4630
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Kazakhstan,KAZ,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Kazakhstan,KAZ,9940,11840,12090,11410,8810
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Kiribati,KIR,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Kiribati,KIR,2450,2840,3300,3350,2270
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Kosovo,XKX,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Kosovo,XKX,3770,3930,3990,3980,3850
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Kyrgyz Republic,KGZ,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Kyrgyz Republic,KGZ,1040,1190,1250,1180,1100
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Lao PDR,LAO,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Lao PDR,LAO,1350,1590,1840,2000,2150
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Lebanon,LBN,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Lebanon,LBN,8530,8450,8300,8050,7980
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Libya,LBY,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Libya,LBY,,,,,
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,"Macedonia, FYR",MKD,,,,,,0,0,,,,,NY.GNP.PCAP.CD,"Macedonia, FYR",MKD,4740,5000,5200,5100,4980
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Malaysia,MYS,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Malaysia,MYS,10150,10760,11010,10450,9860
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Marshall Islands,MHL,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Marshall Islands,MHL,3980,4300,4500,4720,4630
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Mauritania,MRT,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Mauritania,MRT,1310,1410,1380,1230,1130
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,"Micronesia, Fed. Sts.",FSM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,"Micronesia, Fed. Sts.",FSM,3180,3230,3240,3640,3550
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Mongolia,MNG,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Mongolia,MNG,3660,4350,4240,3850,3590
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Montenegro,MNE,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Montenegro,MNE,7000,7330,7320,7280,7120
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Namibia,NAM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Namibia,NAM,5510,5800,5740,5280,4640
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Nauru,NRU,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Nauru,NRU,9190,13330,14730,11850,10750
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Nicaragua,NIC,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Nicaragua,NIC,1770,1860,1940,2010,2100
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Nigeria,NGA,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Nigeria,NGA,2480,2700,2980,2850,2450
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Panama,PAN,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Panama,PAN,9530,10510,11520,11730,12140
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Papua New Guinea,PNG,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Papua New Guinea,PNG,2380,2700,3040,2920,2680
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Romania,ROU,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Romania,ROU,8740,9260,9600,9530,9480
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Russian Federation,RUS,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Russian Federation,RUS,13330,14840,14420,11660,9720
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Samoa,WSM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Samoa,WSM,3780,3920,4040,4070,4120
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Solomon Islands,SLB,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Solomon Islands,SLB,1510,1820,1820,1910,1880
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Sri Lanka,LKA,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Sri Lanka,LKA,3360,3490,3640,3750,3780
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,St. Lucia,LCA,,,,,,0,0,,,,,NY.GNP.PCAP.CD,St. Lucia,LCA,8060,8150,7890,8180,8400
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,St. Vincent and the Grenadines,VCT,,,,,,0,0,,,,,NY.GNP.PCAP.CD,St. Vincent and the Grenadines,VCT,6350,6550,6630,6670,6770
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Sudan,SDN,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Sudan,SDN,1720,1220,1830,2000,2140
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Swaziland,SWZ,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Swaziland,SWZ,3930,4010,3670,3280,2960
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Syrian Arab Republic,SYR,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Syrian Arab Republic,SYR,,,,,
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Tajikistan,TJK,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Tajikistan,TJK,1140,1310,1340,1240,1110
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Timor-Leste,TLS,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Timor-Leste,TLS,4090,3570,2840,2220,2060
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Tonga,TON,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Tonga,TON,4220,4330,4360,4280,4060
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Turkmenistan,TKM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Turkmenistan,TKM,5560,6530,7310,7120,6670
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Tuvalu,TUV,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Tuvalu,TUV,4420,5590,4800,5620,5090
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Vanuatu,VUT,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Vanuatu,VUT,2950,3200,3170,,
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Vietnam,VNM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Vietnam,VNM,1550,1740,1900,1990,2100
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,"Yemen, Rep.",YEM,,,,,,0,0,,,,,NY.GNP.PCAP.CD,"Yemen, Rep.",YEM,1240,1410,1440,1140,1040
+"Literacy rate, adult total (% of people ages 15 and above)",SE.ADT.LITR.ZS,Zambia,ZMB,,,,,,0,0,,,,,NY.GNP.PCAP.CD,Zambia,ZMB,1670,1730,1770,1560,1360
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,Out of 109 middle income countries,,,,,These much have available data,,,,,,,,,,,,,
+,,,,2012,2013,2014,2015,2016,2012-2016,2013-2015,,,,,,,,,,,,
+,,,,28,18,25,19,10,49,36,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,
